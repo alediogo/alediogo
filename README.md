@@ -4,8 +4,8 @@ Aqui estão meus principais projetos práticos, demonstrando habilidades em Enge
 
 | Projeto | Infra/Cloud | Tech Stack & Conceitos |
 | :--- | :---: | :--- |
-| **[🏦 Airflow Credit Pipeline](https://github.com/alediogo/airflow-credit-data-pipeline)** | 🐳 Docker | **Airflow, Postgres, ELT**<br>Orquestração de dados financeiros do Banco Central (SGS) em ambiente containerizado (Data Lakehouse Local). |
-| **[🚚 Spark Logistics Pipeline](https://github.com/alediogo/spark-logistics-data-pipeline)** | ⚡ Spark | **PySpark, Parquet, Big Data**<br>Processamento distribuído de JSON complexo (Loggi), flattening de dados e otimização de storage. |
+| **[Airflow Credit Pipeline](https://github.com/alediogo/airflow-credit-data-pipeline)** | 🐳 Docker | **Airflow, Postgres, ELT**<br>Orquestração de dados financeiros do Banco Central (SGS) em ambiente containerizado (Data Lakehouse Local). |
+| **[Spark Logistics Pipeline](https://github.com/alediogo/spark-logistics-data-pipeline)** | ⚡ Spark | **PySpark, Parquet, Big Data**<br>Processamento distribuído de JSON complexo (Loggi), flattening de dados e otimização de storage. |
 | **[Azure Retail Pipeline](https://github.com/alediogo/azure-retail-data-pipeline)** | 🔵 Azure | **Python, SQL Serverless, Star Schema**<br>ETL "End-to-End" com foco em modelagem dimensional e custos (FinOps). |
 | **[AWS Data Lake Ingestion](https://github.com/alediogo/aws-datalake-ingestion-pipeline)** | 🟠 AWS | **S3, Boto3, Security**<br>Pipeline de ingestão seguro utilizando SDK da AWS e variáveis de ambiente. |
 | **[AWS Data Quality Gate](https://github.com/alediogo/aws-s3-data-quality-gate)** | 🟠 AWS | **Data Quality, Pandas, Quarentena**<br>Firewall de dados que bloqueia arquivos ruins e isola em quarentena. |
